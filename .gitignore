@@ -1,0 +1,5 @@
+/.vscode
+/all_folders.zip
+*.csv
+.DS_Store
+__MACOSX/
